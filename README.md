@@ -13,10 +13,10 @@ Control software for the **SRC-100 DrinkBox** — an in-cockpit hydration module
   - **Toggle** — press once to turn on, press again to turn off
   - **Hold** — pump runs while input is held
   - **Burst** — pump fires for a set duration (ms) then stops automatically
-- **All three slots active simultaneously**
-- **WS2812B LED status indicator** with customisable colours per mode
+- **All three slots can be bound simultaneously**
+- **LED status indicator** with customisable colours per mode
 - **Adjustable brightness** for the status LED
-- **Minimizes to system tray** — runs silently in the background while racing
+- **Minimizes to system tray (optional)** — runs silently in the background while racing
 - **Settings saved automatically** — your bindings and colours are remembered
 - **Hot-plug support** — connect devices before or after launching
 
@@ -50,14 +50,12 @@ Control software for the **SRC-100 DrinkBox** — an in-cockpit hydration module
 
 ---
 
-## LED Status
+## LED Status (default)
 
 | Colour | Meaning |
 |--------|---------|
 | 🔴 Slow red pulse | Module not connected — always red, cannot be changed |
-| 🟡 Amber | Connected, no slots bound yet |
-| 🟢 Green (default) | Ready — at least one slot is bound |
-| ⚪ White pulse | Binding in progress |
+| 🟢 Green | Ready |
 | Custom colour | Pump active — shows the colour you chose for that slot |
 
 ### Customising LED Colours
@@ -78,7 +76,7 @@ The **global brightness slider** adjusts the LED brightness for all functions at
 
 ## Support
 
-For questions or support, visit [simracingcraftsmen.com](https://simracingcraftsmen.com)
+For questions or support, send an email to support@simracingcraftsmen.com
 
 ---
 
