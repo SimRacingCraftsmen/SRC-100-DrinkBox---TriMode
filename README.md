@@ -1,7 +1,7 @@
 # SRC-100 DrinkBox
 ### by [SimRacingCraftsmen](https://simracingcraftsmen.com)
 
-<img width="460" height="307" alt="ChatGPT Image Apr 27, 2026, 01_47_19 PM" src="https://github.com/user-attachments/assets/41921673-f2be-45c5-ad21-2f0865e8d5bd" />
+<img width="690" height="460" alt="ChatGPT Image Apr 27, 2026, 01_47_19 PM" src="https://github.com/user-attachments/assets/41921673-f2be-45c5-ad21-2f0865e8d5bd" />
 
 
 Control software for the **SRC-100 DrinkBox** — an in-cockpit hydration module for sim racing rigs. Bind any button, switch, button box input or keyboard key to control your drink pump directly from your cockpit.
