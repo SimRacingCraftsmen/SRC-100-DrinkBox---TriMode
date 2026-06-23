@@ -83,10 +83,10 @@ The **global brightness slider** adjusts the LED brightness for all functions at
 Click the FLOW SPEED display in the main app to open the speed control window.
 Inside you'll find a vertical slider with a live ml/min readout at the top that updates as you drag. Reference points on the side give you a starting point depending on your drink:
 
-🚀 Overkill — 100% — maximum flow
-💧 Water — 70% — smooth and steady
-⚡ Red Bull — 50% — carbonated drinks, controlled flow
-🍺 Beer — 30% — slow and gentle to reduce foam
+*🚀 Overkill — 100% — maximum flow
+*💧 Water — 70% — smooth and steady
+*⚡ Red Bull — 50% — carbonated drinks, controlled flow
+*🍺 Beer — 30% — slow and gentle to reduce foam
 
 Simply slide the slider around to whatever speed you´d like to use. Your chosen speed is saved automatically and applied every time you launch the app.
 
