@@ -17,6 +17,7 @@ Control software for the **SRC-100 DrinkBox** — an in-cockpit hydration module
   - **Hold** — pump runs while input is held
   - **Burst** — pump fires for a set duration (ms) then stops automatically
 - **All three slots can be bound simultaneously**
+- **Speed control** Control the speed of your DrinkBox according to how fast you want to sip and what type of beverage you have
 - **LED status indicator** with customisable colours per mode
 - **Adjustable brightness** for the status LED
 - **Minimizes to system tray (optional)** — runs silently in the background while racing
@@ -76,6 +77,18 @@ You can also customise the **idle colour** (shown when connected and ready but n
 The **global brightness slider** adjusts the LED brightness for all functions at once.
 
 ---
+
+### Changing speed
+
+Click the FLOW SPEED display in the main app to open the speed control window.
+Inside you'll find a vertical slider with a live ml/min readout at the top that updates as you drag. Reference points on the side give you a starting point depending on your drink:
+
+🚀 Overkill — 100% — maximum flow
+💧 Water — 70% — smooth and steady
+⚡ Red Bull — 50% — carbonated drinks, controlled flow
+🍺 Beer — 30% — slow and gentle to reduce foam
+
+Simply slide the slider around to whatever speed you´d like to use. Your chosen speed is saved automatically and applied every time you launch the app.
 
 ## Support
 
